@@ -1,0 +1,16 @@
+textarea {
+  margin: 0;
+  resize: none;
+}
+.button {
+  width: 4em;
+  height: 1em;
+  background-color: lightgrey;
+  text-align: center;
+  cursor: pointer;
+}
+.result {
+  border: 2px solid lightgrey;
+  width: 10em;
+  height: 1em;
+}
